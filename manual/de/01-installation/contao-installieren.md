@@ -113,7 +113,7 @@ Texteditor, finden Sie die folgende Zeile und setzen Sie sie auf `0`.
 ```php
 $GLOBALS['TL_CONFIG']['installCount'] = 0; // Hebt die automatische Sperre auf
 ```
-
+DAS HIER OBEN IST ALLES FALSCH! Bitte für Contao 4.x anpassen!
 
 #### Datenbankverbindung herstellen
 
